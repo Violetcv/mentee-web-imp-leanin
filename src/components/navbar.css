@@ -1,0 +1,27 @@
+.navbar{
+    /* background-color: blue; */
+    background-image: url("aesthetic\ pretty\ bg.avif");
+    padding: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.elements{
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    color: #e0b4e0;
+}
+
+.navbar a{
+    justify-content: right;
+    display: flex;
+}
+
+.navbar button{
+    padding: 10px 25px;
+    margin-left: 40px;
+    background-color: #522d47;
+    color: #f1c7e5;
+    border-radius: 15px;
+}
